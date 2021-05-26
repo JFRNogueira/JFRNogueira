@@ -1,21 +1,26 @@
 # Hi there, I'm Johannes 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I work with the development of educational platforms for doctors:
   - [EduQ Soluções Educacionais](https://eduq.app)
   - [JJ Mentoria](https://jjmentoria.com.br/)
-- 🌱 I’m currently learning 
+
+- 📚 Currently, I'm learning about
   - NodeJS 
+  - MongoDB
   - Learning Management Systems (LMS) development
-- 👯 I’m looking to collaborate on:
-  - Educational products
-  - Develop educations methodologies
+  - Development team management 
+
 - 🤔 I’m looking for help with
-  - Develop educational methodologies make then available for students
+  - Development of educational methodologies 
+  - Making these methodologies available for students
+
 - 💬 Ask me about Learning Management Systems
+
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/johannes-nogueira-57b81419/)
   - [GitHub](https://github.com/JFRNogueira)
+
 - ⚡ On my free time I like to:
-  -  📖 Reading classical books
-  -  🏃 Running
-  -  👪 Spend time with my family
+  -  📖 Read classical books
+  -  🏃 Run in the park
+  -  👪 be with my family
